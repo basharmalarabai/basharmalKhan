@@ -3,8 +3,17 @@ package YoutubePract;
 public class Bk {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+
+		double y = 2000;
+		System.out.println(y);
+		double z = 2000.50;
+		System.out.println();
+		
+		
+		
+		
+		
 	}
 
 }
